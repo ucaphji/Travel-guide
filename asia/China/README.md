@@ -1,1 +1,1 @@
-- [Litang](./asia/China/Litang.md)
+- [Litang](./Litang.md)

@@ -1,2 +1,2 @@
 # ASIA
-- [China](./asia/China/README.md)
+- [China](./China/README.md)
